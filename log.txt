@@ -1,7 +1,10 @@
 "Memories age better than photos"
 
--a
--ae
--ae
+-a   -ae
+-ae  -arum
+-ae  -is
+-am  -as
+-a   -is
+-a   -ae
 
 —W. Mercer
