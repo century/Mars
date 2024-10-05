@@ -1,0 +1,25 @@
+body {
+	max-width: 72ch;
+	font-size: 18px;
+	padding: 3rem;
+	margin: 0 auto;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000;
+}
+a::before {
+	content: "{";
+	color: #888;
+}
+a::after {
+	content: "}";
+	color: #888;
+}
+a:hover {
+	color: #888;
+}
