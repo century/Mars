@@ -3,6 +3,11 @@ body {
 	font-size: 18px;
 	padding: 3rem;
 	margin: 0 auto;
+	font-family: "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052, serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+	line-height: 1.5;
 }
 
 a {
@@ -22,4 +27,12 @@ a::after {
 }
 a:hover {
 	color: #888;
+}
+
+footer {
+	text-align: center;
+}
+
+h1 {
+	margin: 0;
 }

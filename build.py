@@ -27,7 +27,7 @@ article_template_str = """<!DOCTYPE html>
     </article>
 </body>
 <footer>
-        <a href="index.html">Back to index</a>
+        <a href="index.html"><em>finis</em></a>
 </footer>
 </html>"""
 
@@ -65,7 +65,7 @@ index_template_str = """<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <h1>Julian Maroux is a (type) designer with a focus on the web and life.</h1>
+    <h1>78 BPM</h1>
     <a href="https://wiki.78bpm.com">Wiki</a>
     <hr>
     <ul>
