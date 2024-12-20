@@ -42,3 +42,8 @@ a:hover {
 	text-align: right;
 	margin-left: auto;
 }
+
+img,
+image {
+	width: 90%;
+}
